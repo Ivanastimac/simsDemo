@@ -1,0 +1,31 @@
+{
+  "familymembers": [
+    { "id": 0, "name": "John", "surname": "Meznick", "birthday": "1978-02-05", "school": "University of Minnesota", "work": 1, "status": "father", "familyId": 0 },
+    { "id": 1, "name": "Lara", "surname": "Meznick", "birthday": "1982-10-11", "school": "University of Minnesota", "work": 1, "status": "mother", "familyId": 0 },
+    { "id": 2, "name": "Sarah", "surname": "Meznick", "birthday": "1999-09-22", "school": "North Central University", "work": 0, "status": "daughter", "familyId": 0 }
+  ],
+  "house": [
+    { "id": 0, "surname": "The Meznicks", "Address": "45 Ontario Street", "prize": 255900, "currency": "$" }
+  ],
+  "ownedpets": [
+    { "id": 0, "name": "Max", "breed": "labrador", "age": 3, "familyId": 0 }
+  ],
+  "allowedpets": [
+    { "id": 0, "name": "Roxy", "age": 4, "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR5rf0Y7TIji8B3_K5e56kJG5prRqiMXslyCA&usqp=CAU",
+     "breed": "Pug", "location": "Minneapolis" },
+    { "id": 1, "name": "Lilly", "age": 1, "picture": "https://images.ctfassets.net/440y9b545yd9/7DshSf6LopuY4EUyLqItxD/e53b9b695de31a9b47914b58d8e99c2c/German_shepherd_dog_850.jpg",
+      "breed": "German Shepard", "location": "Plymouth" },
+    { "id": 2, "name": "Dixie", "age": 7, "picture": "https://doglime.com/wp-content/uploads/2019/03/Afghan-Hound-Dog-1.jpg",
+      "breed": "Afghan Hound", "location": "Woodbury" },
+    { "id": 3, "name": "Felix", "age": 1, "picture": "https://www.perfectdogbreeds.com/wp-content/uploads/2020/03/Blue-French-Bulldog-Breed-Info-5-Must-Know-Facts-Cover.jpg",
+      "breed": "French Bulldog", "location": "Victoria" },
+    { "id": 4, "name": "Stella", "age": 3, "picture": "https://www.thesprucepets.com/thmb/VJpRmcCyJCRbVmox-yx3FqUJWZ8=/1000x1000/smart/filters:no_upscale()/breed_profile_husky_1118000_hero_690-0158e427a4734e0fae59e2e91a7fe6e4.jpg",
+      "breed": "Siberian Husky", "location": "Roseville" },
+    { "id": 5, "name": "Charlie", "age": 2, "picture": "https://www.kingstonvetclinic.com/wp-content/uploads/sites/50/2020/01/1912_Breeds_Corgi_GettyImages-1061822700.png",
+      "breed": "Pembroke Welsh Corgi", "location": "New Brighton" },
+    { "id": 6, "name": "Lucy", "age": 2, "picture": "https://www.everypaw.com/uploads/Pomeranian%20breed%20guide%201.jpg",
+      "breed": "Pomeranian", "location": "Columbia Heights" },
+    { "id": 7, "name": "Lola", "age": 4, "picture": "https://cf.ltkcdn.net/dogs/images/orig/246161-2376x1584-GettyImages-598323815.jpg",
+      "breed": "Chow Chow", "location": "Hermantown" }
+  ]
+}
